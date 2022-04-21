@@ -13,3 +13,11 @@ Segue meu currículo no formato de git, para avaliação. Demonstro interesse em
   
 Sistemas de Informação - Universidade Anhembi Morumbi - São Paulo - SP - Brasil
 Conclusão- 2020
+
+<br>
+<br>
+
+* Brasileiro, 33 anos
+* São Paulo - SP
+* (11) 94841-5274
+* davidpereira248@gmail.com
