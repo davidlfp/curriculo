@@ -11,7 +11,7 @@ Segue meu currículo no formato de git, para avaliação. Demonstro interesse em
 <img src="https://user-images.githubusercontent.com/26278819/164345517-5255811b-cc72-44b8-a85b-227a346bc4d2.png"
   heigth="400" width="400">  
   
-Sistemas de Informação - Universidade Anhembi Morumbi - São Paulo - SP - Brasil
+Sistemas de Informação - Universidade Anhembi Morumbi - São Paulo - SP - Brasil -
 Conclusão- 2020
 
 <br>
