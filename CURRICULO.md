@@ -35,7 +35,7 @@ MBA - Engenharia de Software (Em andamento) - Conclusão 2025
 
 <br>
 
-
+<h2 align="center"> Experiência </h2>
 
 
 
