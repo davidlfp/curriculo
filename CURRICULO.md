@@ -1,11 +1,7 @@
-# Currículo em GitHub
-<br>
+# Empresas por onde passei.
 
-## Empresas por onde passei.
-
-<img src="img/ailos.png" heigth="200" width="250">
-<img src="img/levva.png" heigth="200" width="250">
-<img src="img/sci.png" heigth="200" width="250">
+<img src="img/ailos.png" heigth="200" width="250"> <img src="img/levva.png" heigth="200" width="250">
+<img src="img/sci.png" heigth="200" width="250"> <img src="img/ageo.jpg" heigth="200" width="250">
 
 
 
