@@ -60,5 +60,5 @@ MBA - Engenharia de Software (Em andamento) - Conclusão 2025
 
 <h2 align="center"> Certificação </h2>
 
-<strong>PSM1 - Scrum.or </strong>
+<strong>PSM1 - Scrum.org </strong>
 <br>
