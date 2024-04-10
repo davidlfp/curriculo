@@ -24,7 +24,7 @@ Conclusão- 2020
 
 MBA - Engenharia de Software (Em andamento) - Conclusão em 2025
 
-<img src="img/uspesalq.jpg" heigth="200" width="200">
+<img src="img/uspesalq.jpg" heigth="100" width="100">
 
 <br>
 
