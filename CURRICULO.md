@@ -39,25 +39,10 @@ MBA - Engenharia de Software (Em andamento) - Conclusão 2025
 
 <strong>Product Owner - 
 Ailos </strong>
-<p align="justify"> Como PO da squad de segurança corporativa da AILOS pude gerenciar uma equipe de desenvolvimento, trabalhando em estreita colaboração garantindo que eles entendam claramente os requisitos do produto e possam implementá-los de forma eficiente, tendo em vista as melhores práticas relacionadas à prevenção à lavagem de dinheiro, regras de conformidade e padrões internacionais relevantes, como as diretrizes do Grupo de Ação Financeira (GAFI). Definindo os requisitos do produto com base nas regulamentações e nas necessidades das organizações. Isso envolve identificar funcionalidades que ajudem a detectar e prevenir atividades suspeitas, rastrear transações financeiras e gerar relatórios adequados para as autoridades competentes.</p>
-
-<p align="justify">Gerenciava o backlog do produto priozando as funcionalidades trazidas pelo time do BO responsável, com base no valor que trazem para a prevenção à lavagem de dinheiro. Isso inclui colaborar com as partes interessadas, como equipes de conformidade, analistas de risco e até mesmo agências governamentais, para entender suas necessidades e prioridades.</p>
-
-<p align="justify">>Fui responsável por testar e validar garantindo assim que o produto atenda aos padrões de qualidade e funcionalidade exigidos. Isso pode envolver testes internos, revisões de conformidade e validação com usuários finais, como especialistas em PLD, analistas de risco ou equipes de conformidade.</p>
+<br>
 
 <strong>Product Owner - Levva </strong>
-<p align="justify">Garantir a visão do produto e gerar o maior valor possível com o trabalho da equipe de desenvolvimento, assegurando a qualidade das entregas;
-Acompanhamento das métricas ágeis (velocity, burndown, lead time, cycle time e burnup);
-companhamento e análise das principais métricas de produtos (DAU, MAU, Cohort, NPS, LTV, CTR e Churn);
-Buscar inovações para o produto, fazer benchmarking para as evoluções;
-Ter boa base técnica, conseguindo definir fluxos do produto e processos;
-Buscar continuamente novas oportunidades de melhoria de experiência do cliente e de indicadores de negócio;
-Trazer os problemas e conectar todos os envolvidos na resolução (fazendo brainstorming, design thinking e outros), além de ser capaz de analisar dados/métricas, com o objetivo de criar e validar hipóteses para resolução;
-Coordenar frentes de trabalho com várias pessoas e times;
-Priorizar roadmap e direcionar o produto utilizando metodologias ágeis;
-Atuação em todas as etapas (Planejamento, UX, Desenvolvimento, Implementação e Pós Implementação);
-Comunicar-se com DEV Team, UX, Dados, Agile, usuários e stakeholders;
-Realizar apresentações para negócio, comitês de trabalho e syncs do time.</p>
+<br>
 
 <strong>Product Owner - Sci Sistemas Contábeis </strong>
-
+<br>
