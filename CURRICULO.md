@@ -2,7 +2,7 @@
 <br>
 
 ## Empresas por onde passei.
-
+<br>
 
 
 
@@ -16,6 +16,7 @@ Conclusão- 2020
   heigth="400" width="400">  
 
 MBA - Engenharia de Software (Em andamento) - Conclusão em 2025
+
 <img src="img/uspesalq.jpg" heigth="400" width="400">
 
 
