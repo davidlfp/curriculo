@@ -17,10 +17,9 @@ MBA - Engenharia de Software (Em andamento) - Conclusão em 2025
 
 <img src="img/uspesalq.jpg" heigth="200" width="250">
 
-
-<br>
 <br>
 
+## Contatos
 * Brasileiro
 * São Paulo/SP
 * (11) 94841-5274
