@@ -2,7 +2,10 @@
 <br>
 
 ## Empresas por onde passei.
-<br>
+
+<img src="img/ailos.png heigth="200" width="250">
+<img src="img/levva.png heigth="200" width="250">
+<img src="img/sci.png heigth="200" width="250">
 
 
 
