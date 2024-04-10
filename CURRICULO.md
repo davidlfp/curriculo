@@ -1,8 +1,5 @@
 # Currículo em GitHub
-
 <br>
-<br>
-
 
 ## Empresas por onde passei.
 
@@ -10,7 +7,7 @@
 
 
 
-  
+##Formação Acadêmica 
 Sistemas de Informação - Universidade Anhembi Morumbi - São Paulo/SP/
 Conclusão- 2020
 
@@ -18,7 +15,7 @@ Conclusão- 2020
   heigth="400" width="400">  
 
 MBA - Engenharia de Software (Em andamento) - Conclusão em 2025
-
+<img src="img/uspesalq.jpg">
 <br>
 <br>
 
