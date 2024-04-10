@@ -37,7 +37,11 @@ MBA - Engenharia de Software (Em andamento) - Conclusão 2025
 
 <h2 align="center"> Experiência </h2>
 
+Product Owner
+Ailos - (03/2023 - 03/2024)
 
 
+Product Owner - Levva
 
+Product Owner - Sci Sistemas Contábeis
 
