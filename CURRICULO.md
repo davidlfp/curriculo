@@ -6,7 +6,7 @@
 
 
 ## Contatos
-:fire: <p align="justify"> Tenho disponibilidade para atuar presencialmente nas cidade de Florianópolis e São Paulo - São Paulo. </p>
+ <p align="justify"> :fire: Tenho disponibilidade para atuar presencialmente nas cidade de Florianópolis e São Paulo - São Paulo. </p>
 
 * Brasileiro
 * São Paulo/SP
