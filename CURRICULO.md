@@ -14,7 +14,7 @@
 |Brasileiro|São Paulo|(11) 94841-5274|davidpereira248@gmail.com|<a href="http://www.linkedin.com/in/davidlfp" target="_blank">Acesse meu Linkedin</a>
 
 
-## Formação Acadêmica
+<h2 align="center"> Formação Acadêmica </h2>
 
 Sistemas de Informação - Universidade Anhembi Morumbi - São Paulo/SP/
 Conclusão- 2020
