@@ -54,3 +54,6 @@ MBA - Engenharia de Software (Em andamento) - Conclusão 2025
 
 <strong>Implementation Sucess Manager - Movidesk </strong>
 <br>
+
+<strong>PMO - Deloitte </strong>
+<br>
