@@ -37,8 +37,7 @@ MBA - Engenharia de Software (Em andamento) - Conclusão 2025
 
 <h2 align="center"> Experiência </h2>
 
-<strong>Product Owner - 
-Ailos </strong>
+<strong>Product Owner - Ailos </strong>
 <br>
 
 <strong>Product Owner - Levva </strong>
