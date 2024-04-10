@@ -12,7 +12,7 @@
 * São Paulo/SP
 * (11) 94841-5274
 * davidpereira248@gmail.com
-* <a href="http://www.linkedin.com/in/davidlfp" rel="noreferrer noopener nofollow" target="_blank">Acesse meu Linkedin</a>
+* <a href="http://www.linkedin.com/in/davidlfp" target="_blank">Acesse meu Linkedin</a>
 
 ## Formação Acadêmica
 
