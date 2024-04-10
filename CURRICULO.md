@@ -57,3 +57,8 @@ MBA - Engenharia de Software (Em andamento) - Conclusão 2025
 
 <strong>PMO - Deloitte </strong>
 <br>
+
+<h2 align="center"> Certificação </h2>
+
+<strong>PSM1 - Scrum.or </strong>
+<br>
