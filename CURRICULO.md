@@ -5,8 +5,8 @@
 <p align="justify">Minha última experiência foi como Product Owner na Cooperativa Central Ailos, onde fui responsável por gerenciar o produto PLD/FT, uma solução para prevenção à lavagem de dinheiro e financiamento ao terrorismo. Lá, eu trabalhei com as equipes de desenvolvimento, design, UX, negócio e compliance, utilizando metodologias ágeis, OKRs, Azure DevOps e ferramentas como eGuardian, Bacen, Coaf, Siscoaf, Kn1, Calris, Ailos+ e Mulesoft. Contribuí para o aumento da qualidade, segurança e conformidade do produto, bem como para a melhoria da experiência do usuário e dos indicadores de negócio. Antes disso, fui Product Owner na levva e na SCI Sistemas Contábeis, onde desenvolvi produtos voltados para o mercado contábil e financeiro, aplicando técnicas de growth hacking, análise de métricas e inovação. Meu objetivo é continuar aprendendo e evoluindo como profissional, e fazer parte de uma equipe engajada, colaborativa e diversa, que busca entregar valor e satisfação aos clientes.</p>
 
 
+<h2 align="center"> Contatos </h2>
 
-## Contatos
  <p align="justify"> :fire: Tenho disponibilidade para atuar presencialmente nas cidade de Florianópolis e São Paulo - São Paulo. </p>
 
  |Nacionalidade|Cidade|Telefone|E-mail|Linkedin|
