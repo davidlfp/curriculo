@@ -6,6 +6,7 @@
 
 
 ## Contatos
+<p align="justify"> Tenho disponibilidade para atuar presencialmente nas cidade de Florinópolis e São Paulo - São Paulo. </p>
 * Brasileiro
 * São Paulo/SP
 * (11) 94841-5274
@@ -28,7 +29,7 @@ MBA - Engenharia de Software (Em andamento) - Conclusão em 2025
 
 ## Empresas por onde passei.
 
-<img src="img/ailos.png" heigth="200" width="250">  <img src="img/levva.jpg" heigth="150" width="200"> <img src="img/sci.png" heigth="200" width="250"> <img src="img/ageo.jpg" heigth="200" width="250"> <img src="img/benner.png" heigth="200" width="250"> <img src="img/deloitte.png" heigth="200" width="250"> <img src="img/bradesco.png" heigth="200" width="250"> <img src="img/Oxiteno.jpg" heigth="200" width="250"> <img src="img/portoseguro.png" heigth="200" width="250">
+<img src="img/ailos.png" heigth="200" width="200">  <img src="img/levva.jpg" heigth="100" width="200"> <img src="img/sci.png" heigth="200" w00"> <img src="img/deloitte.png" heigth="200" width="200"> <img src="img/bradesco.png" heigth="200" width="200"> <img src="img/Oxiteno.jpg" heigth="200" width="200"> <img src="img/portoseguro.png" heigth="200" width="200">
 
 <br>
 
