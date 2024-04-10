@@ -1,4 +1,4 @@
-<h1 align="center"color="blue"> David Luis Fonseca Pereira </h1>
+<h1 align="center #0969DA David Luis Fonseca Pereira </h1>
 
 <p align="justify">Sou um Product Owner apaixonado por criar soluções inovadoras e de alto impacto para os clientes. Atualmente, estou cursando MBA em Engenharia de Software na USP/ESALQ e Especialização em Governança de Tecnologia da Informação na UNICAMP (trancado). Tenho bacharelado em Sistemas de Informação pela Universidade Anhembi Morumbi. Possuo as certificações SCRUM MASTER, SAP FUNCIONAL R/3 Foundations e Java completo 2020 programação orientada a objetos + projeto.</p>
 
