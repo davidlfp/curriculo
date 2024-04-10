@@ -8,11 +8,10 @@
 ## Contatos
  <p align="justify"> :fire: Tenho disponibilidade para atuar presencialmente nas cidade de Florianópolis e São Paulo - São Paulo. </p>
 
-* Brasileiro
-* São Paulo/SP
-* (11) 94841-5274
-* davidpereira248@gmail.com
-* <a href="http://www.linkedin.com/in/davidlfp" target="_blank">Acesse meu Linkedin</a>
+ |Nacionalidade|Cidade|Telefone|E-mail|Linkedin|
+| -------- | -------- | -------- |-------- | -------- |
+|Brasileiro|São Paulo|(11) 94841-5274|davidpereira248@gmail.com|<a href="http://www.linkedin.com/in/davidlfp" target="_blank">Acesse meu Linkedin</a>
+
 
 ## Formação Acadêmica
 
