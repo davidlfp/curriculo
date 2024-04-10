@@ -45,3 +45,12 @@ MBA - Engenharia de Software (Em andamento) - Conclusão 2025
 
 <strong>Product Owner - Sci Sistemas Contábeis </strong>
 <br>
+
+<strong>Analista de Negócios Pl - Ageo Terminais </strong>
+<br>
+
+<strong>Analista de Negócios Pl - Benner </strong>
+<br>
+
+<strong>Implementation Sucess Manager - Movidesk </strong>
+<br>
