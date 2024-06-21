@@ -13,7 +13,7 @@ aplicar e expandir meus conhecimentos em tecnologia e inovação.</p>
 
  |Nacionalidade|Naturalidade|Telefone|E-mail|Linkedin|
 | -------- | -------- | -------- |-------- | -------- |
-|Brasileiro|Belém PA|(11) 94841-5274|davidpereira248@gmail.com|<a href="http://www.linkedin.com/in/davidlfp" target="_blank">Acesse meu Linkedin</a>
+|Brasileiro|São José - SC|(11) 94841-5274|davidpereira248@gmail.com|<a href="http://www.linkedin.com/in/davidlfp" target="_blank">Acesse meu Linkedin</a>
 <br>
 
 <h2 align="center"> Formação Acadêmica </h2>
@@ -24,8 +24,7 @@ Conclusão- 2020
 <img src="https://user-images.githubusercontent.com/26278819/164345517-5255811b-cc72-44b8-a85b-227a346bc4d2.png"
   heigth="200" width="200">  
 
-MBA - Engenharia de Software (Em andamento) - Conclusão 2025
-
+Bacharelado Interdisciplinar em Ciência e Tecnologia – UDESC (Cursando).
 <img src="img/uspesalq.jpg" heigth="100" width="100">
 
 <br>
