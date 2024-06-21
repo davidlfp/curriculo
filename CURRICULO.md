@@ -25,7 +25,7 @@ Conclusão- 2020
 
 Bacharelado Interdisciplinar em Ciência e Tecnologia – UDESC (Cursando)
 
-<img src="img/" heigth="100" width="100">
+<img src="img/Marca_da_Udesc.jpg" heigth="100" width="100">
 
 <br>
 
