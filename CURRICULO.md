@@ -23,9 +23,9 @@ Conclusão- 2020
 <img src="https://user-images.githubusercontent.com/26278819/164345517-5255811b-cc72-44b8-a85b-227a346bc4d2.png"
   heigth="200" width="200">  
 
-MBA - Engenharia de Software (Em andamento) - Conclusão 2025
+Bacharelado Interdisciplinar em Ciência e Tecnologia – UDESC (Cursando)
 
-<img src="img/uspesalq.jpg" heigth="100" width="100">
+<img src="img/" heigth="100" width="100">
 
 <br>
 
