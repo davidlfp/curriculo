@@ -24,7 +24,7 @@ Conclusão- 2020
 <img src="https://user-images.githubusercontent.com/26278819/164345517-5255811b-cc72-44b8-a85b-227a346bc4d2.png"
   heigth="200" width="200">  
 
-Bacharelado Interdisciplinar em Ciência e Tecnologia – UDESC (Cursando)
+Bacharelado Interdisciplinar em Ciência e Tecnologia – Universidade do Estado de Santa Catarina (Cursando).
 
 <img src="img/Marca_da_Udesc.jpg" heigth="100" width="100">
 
