@@ -24,14 +24,9 @@ Conclusão- 2020
 <img src="https://user-images.githubusercontent.com/26278819/164345517-5255811b-cc72-44b8-a85b-227a346bc4d2.png"
   heigth="200" width="200">  
 
-<<<<<<< HEAD
 Bacharelado Interdisciplinar em Ciência e Tecnologia – UDESC (Cursando)
 
 <img src="img/Marca_da_Udesc.jpg" heigth="100" width="100">
-=======
-Bacharelado Interdisciplinar em Ciência e Tecnologia – UDESC (Cursando).
-<img src="img/uspesalq.jpg" heigth="100" width="100">
->>>>>>> 7c2522a37fe114d543690da0479c04fe6f7ec8bb
 
 <br>
 
